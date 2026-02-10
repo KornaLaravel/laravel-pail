@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/pail/compare/v1.2.5...main)
+## [Unreleased](https://github.com/laravel/pail/compare/v1.2.6...main)
+
+## [v1.2.6](https://github.com/laravel/pail/compare/v1.2.5...v1.2.6) - 2026-02-09
+
+* Update command description formatting to match all other Laravel Commands by [@matthewjohns0n](https://github.com/matthewjohns0n) in https://github.com/laravel/pail/pull/62
 
 ## [v1.2.5](https://github.com/laravel/pail/compare/v1.2.4...v1.2.5) - 2026-02-04
 
